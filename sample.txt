@@ -1,1 +1,2 @@
 welcome my first git code. happy
+i am a bigginer
